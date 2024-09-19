@@ -5,7 +5,7 @@ using [FakerJS](https://fakerjs.dev).
 
 ## Installation
 
-- Ensure you are using Yaak 2024.10.0-beta.3 or later
+- Ensure you are using Yaak `2024.10.0-beta.3` or later
 - Clone or download this repository to your filesystem
 - Open Yaak > Settings > Plugins
 - Add location of cloned repository
