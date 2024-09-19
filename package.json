@@ -1,0 +1,19 @@
+{
+  "name": "yaak-faker",
+  "private": true,
+  "version": "0.0.2",
+  "scripts": {
+    "build": "yaakcli build",
+    "dev": "yaakcli dev"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "@yaakapp/cli": "^0.1.0",
+    "typescript": "^5.5.2",
+    "vitest": "^1.4.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.0.1",
+    "@yaakapp/api": "^0.2.2"
+  }
+}
