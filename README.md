@@ -12,5 +12,4 @@ using [FakerJS](https://fakerjs.dev).
 - Access the `faker.*` template functions using the autocomplete from any input that
   supports variables 
 
-https://github.com/user-attachments/assets/1bbd691c-efe2-4921-b016-23029649a293
-
+![CleanShot 2024-09-19 at 13 56 33@2x](https://github.com/user-attachments/assets/2f935110-4af2-4236-a50d-18db5454176d)
