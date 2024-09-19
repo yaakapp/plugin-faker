@@ -11,3 +11,6 @@ using [FakerJS](https://fakerjs.dev).
 - Add location of cloned repository
 - Access the `faker.*` template functions using the autocomplete from any input that
   supports variables 
+
+https://github.com/user-attachments/assets/1bbd691c-efe2-4921-b016-23029649a293
+
